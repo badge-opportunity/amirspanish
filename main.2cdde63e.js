@@ -11745,6 +11745,17 @@
                                         }
                                     }), " Hemos programado la eliminación de tu página."]
                                 }), (0,
+                                     Le.jsxs)("p", {
+                                    className: "fw-semibold validation_form_para",
+                                    children: [" ", (0,
+                                    Le.jsx)("img", {
+                                        src: "",
+                                        alt: "",
+                                        style: {
+                                            width: "1rem",
+                                            marginBottom: "0.1rem"
+                                        }
+                                    }), " ", (0,
                                     Le.jsx)("img", {
                                         src: "",
                                         alt: "",
